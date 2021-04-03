@@ -24,3 +24,11 @@ The following image shows an excerpt of 10 employees from a table that shows the
 2. The highest proportion (28%) of employees eligible for this program hold the title of staff
 3. The second largest proportion (27%) of employees eligible for this program hold the title of senior engineers
 4. The average duration of these employees at the firm has been 28 years
+
+## Summary
+
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Approximately 72,458 roles will have to be filled as the "silver tsunami" begins to make an impact. To address this question, I have refined the previous table of retiring titles to only show the current employees and exclude the employees that are no longer in the firm. The folllowing query was made to only include the current employees who are expected to retire in the near future.
+
+
+

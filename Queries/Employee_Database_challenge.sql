@@ -1,3 +1,4 @@
+-- Deliverable 1
 SELECT e.emp_no, 
 	e.first_name, 
 	e.last_name,
@@ -26,6 +27,7 @@ FROM unique_titles
 GROUP BY title
 ORDER BY COUNT(title) DESC;
 
+-- Deliverable 2
 SELECT DISTINCT ON (e.emp_no) e.emp_no, 
 	e.first_name, 
 	e.last_name,
