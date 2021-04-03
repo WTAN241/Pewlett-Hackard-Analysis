@@ -34,5 +34,8 @@ Approximately 72,458 roles will have to be filled as the "silver tsunami" begins
 
 The following image shows the output of 25 employees who are expected to retire soon. 
 
+![current_retiring_employees.PNG](https://github.com/WTAN241/Pewlett-Hackard-Analysis/blob/main/Images/current_retiring_employees.PNG)
 
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+There are more than enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. 
