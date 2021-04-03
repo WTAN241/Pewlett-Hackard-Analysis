@@ -48,3 +48,4 @@ The table below shows the number of employees per title that are eligible for th
 
 According to the table below which shows the number of current employees that are retiring per title, there are more than enough qualified and retirement-ready employees to mentor the next generation of Pewlett Hackard employees. 
 
+![current_employees_retiring_titles.PNG](https://github.com/WTAN241/Pewlett-Hackard-Analysis/blob/main/Images/current_employees_retiring_titles.PNG)
