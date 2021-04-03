@@ -30,5 +30,9 @@ The following image shows an excerpt of 10 employees from a table that shows the
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Approximately 72,458 roles will have to be filled as the "silver tsunami" begins to make an impact. To address this question, I have refined the previous table of retiring titles to only show the current employees and exclude the employees that are no longer in the firm. The folllowing query was made to only include the current employees who are expected to retire in the near future.
 
+![roles_to_be_filled.PNG](https://github.com/WTAN241/Pewlett-Hackard-Analysis/blob/main/Images/roles_to_be_filled.PNG)
+
+The following image shows the output of 25 employees who are expected to retire soon. 
+
 
 
