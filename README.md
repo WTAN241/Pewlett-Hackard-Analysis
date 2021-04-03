@@ -16,7 +16,11 @@ Then, using the table above as a basis, I have removed the repeated values and h
 3. Only two current employees who hold manager position will be retiring
 4. 50% of the current employees who will be retiring work as engineers
 
-
+The following image shows an excerpt of 10 employees from a table that shows the data of current employees who are eligible for the mentorship program. These employees were born between January 1, 1965 and December 31, 1965 and would be good candidates to participate in the mentorship program. This table provides the following insights:
 
 ![mentorship_eligibility.PNG](https://github.com/WTAN241/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.PNG)
 
+1. There is a total of 1549 current employees who are eligible to participate in the mentorship program
+2. The highest proportion (28%) of employees eligible for this program hold the title of staff
+3. The second largest proportion (27%) of employees eligible for this program hold the title of senior engineers
+4. The average duration of these employees at the firm has been 28 years
